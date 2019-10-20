@@ -1,0 +1,12 @@
+D:\[OOP] - Object Oriented Programming\Test\1_8_TestingAllTheExecutionTests\1_8_TestingAllTheExecutionTests\bin\Debug\1_8_TestingAllTheExecutionTests.exe.config
+D:\[OOP] - Object Oriented Programming\Test\1_8_TestingAllTheExecutionTests\1_8_TestingAllTheExecutionTests\bin\Debug\1_8_TestingAllTheExecutionTests.exe
+D:\[OOP] - Object Oriented Programming\Test\1_8_TestingAllTheExecutionTests\1_8_TestingAllTheExecutionTests\bin\Debug\1_8_TestingAllTheExecutionTests.pdb
+D:\[OOP] - Object Oriented Programming\Test\1_8_TestingAllTheExecutionTests\1_8_TestingAllTheExecutionTests\obj\Debug\1_8_TestingAllTheExecutionTests.csprojAssemblyReference.cache
+D:\[OOP] - Object Oriented Programming\Test\1_8_TestingAllTheExecutionTests\1_8_TestingAllTheExecutionTests\obj\Debug\1_8_TestingAllTheExecutionTests.exe
+D:\[OOP] - Object Oriented Programming\Test\1_8_TestingAllTheExecutionTests\1_8_TestingAllTheExecutionTests\obj\Debug\1_8_TestingAllTheExecutionTests.pdb
+C:\Users\Predator\Desktop\TestNinja\1_8_TestingAllTheExecutionTests\1_8_TestingAllTheExecutionTests\bin\Debug\1_8_TestingAllTheExecutionTests.exe.config
+C:\Users\Predator\Desktop\TestNinja\1_8_TestingAllTheExecutionTests\1_8_TestingAllTheExecutionTests\bin\Debug\1_8_TestingAllTheExecutionTests.exe
+C:\Users\Predator\Desktop\TestNinja\1_8_TestingAllTheExecutionTests\1_8_TestingAllTheExecutionTests\bin\Debug\1_8_TestingAllTheExecutionTests.pdb
+C:\Users\Predator\Desktop\TestNinja\1_8_TestingAllTheExecutionTests\1_8_TestingAllTheExecutionTests\obj\Debug\1_8_TestingAllTheExecutionTests.csprojAssemblyReference.cache
+C:\Users\Predator\Desktop\TestNinja\1_8_TestingAllTheExecutionTests\1_8_TestingAllTheExecutionTests\obj\Debug\1_8_TestingAllTheExecutionTests.exe
+C:\Users\Predator\Desktop\TestNinja\1_8_TestingAllTheExecutionTests\1_8_TestingAllTheExecutionTests\obj\Debug\1_8_TestingAllTheExecutionTests.pdb
